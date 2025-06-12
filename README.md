@@ -67,7 +67,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 <<<<<<< HEAD
-Mobin Ezzati - [@MobinEzzati](https://www.linkedin.com/in/mobin-ezzati-84b753153/)
+Linkedin- [@MobinEzzati](https://www.linkedin.com/in/mobin-ezzati-84b753153/)
+email- mezzati@smu.edu
 
 =======
 
