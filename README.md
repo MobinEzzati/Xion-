@@ -71,7 +71,6 @@ Mobin Ezzati - [@MobinEzzati](https://www.linkedin.com/in/mobin-ezzati-84b753153
 
 Project Link: [https://github.com/YourUsername/Xion](https://github.com/MobinEzzati/Xion)
 =======
-Your Name - [@YourTwitter](https://twitter.com/YourTwitter)
 
 Project Link: [https://github.com/YourUsername/Xion](https://github.com/YourUsername/Xion) 
 >>>>>>> 7c5542f (Resolved merge conflicts)
