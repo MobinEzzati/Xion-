@@ -4,13 +4,13 @@ Xion is a modern iOS chat application that leverages OpenAI's GPT-3.5 API to pro
 
 ## Features
 
-- 🤖 Powered by OpenAI's GPT-3.5 Turbo model
-- 💬 Context-aware conversations with history management
-- 🎨 Modern SwiftUI interface with smooth animations
-- 🔄 Smart retry mechanism for API rate limiting
-- 🧹 Conversation history management
-- 🎯 Optimized token usage and response handling
-- 📱 Native iOS design patterns and components
+- Powered by OpenAI's GPT-3.5 Turbo model
+- Context-aware conversations with history management
+-  Modern SwiftUI interface with smooth animations
+-  Smart retry mechanism for API rate limiting
+-  Conversation history management
+-  Optimized token usage and response handling
+-  Native iOS design patterns and components
 
 ## Requirements
 
