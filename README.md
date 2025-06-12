@@ -69,8 +69,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <<<<<<< HEAD
 Mobin Ezzati - [@MobinEzzati](https://www.linkedin.com/in/mobin-ezzati-84b753153/)
 
-Project Link: [https://github.com/YourUsername/Xion](https://github.com/MobinEzzati/Xion)
 =======
 
-Project Link: [https://github.com/YourUsername/Xion](https://github.com/YourUsername/Xion) 
 >>>>>>> 7c5542f (Resolved merge conflicts)
